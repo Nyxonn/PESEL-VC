@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Debug\PESELvc.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Debug\PESELvc.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\bin\Debug\PESELvc.exe.config
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\bin\Debug\PESELvc.exe
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\bin\Debug\PESELvc.pdb
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Debug\PESELvc.exe
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Debug\PESELvc.pdb

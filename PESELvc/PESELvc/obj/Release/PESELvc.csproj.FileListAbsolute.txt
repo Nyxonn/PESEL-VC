@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\bin\Release\PESELvc.exe.config
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\bin\Release\PESELvc.exe
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\bin\Release\PESELvc.pdb
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Release\PESELvc.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Release\PESELvc.exe
+C:\Users\Daniel\Desktop\PESEL-checker\PESELvc\PESELvc\obj\Release\PESELvc.pdb
