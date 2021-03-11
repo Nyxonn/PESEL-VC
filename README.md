@@ -4,4 +4,4 @@
 ![PESEL](https://user-images.githubusercontent.com/45857590/110859272-7cd8a480-82bb-11eb-94b7-4f1e19480ad4.png)
 
 <br>
-You can download just executable file in releases section or by clicking [here](https://github.com/Nyxonn/PESEL-VC/releases/tag/1.0)
+You can download just executable file in releases section.
